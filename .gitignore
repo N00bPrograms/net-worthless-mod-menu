@@ -1,0 +1,4 @@
+save_backup_*/
+*.zip
+mod/NWModMenu/nwcmd.*
+mod/NWModMenu/shot.png
